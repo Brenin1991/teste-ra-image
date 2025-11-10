@@ -8,6 +8,8 @@
         "usarVideo": true,
         "usarFaceTracking": false,
         "cameraFacing": "environment",
+        "espelharVideo": false,
+        "mostrarDebug": true,
         "markerType": "nft",
         "markerUrl": "/assets/images/image-marker/imagem",
         "markerImageUrl": "/assets/images/image-marker/imagem.jpg"
